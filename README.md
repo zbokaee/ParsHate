@@ -17,7 +17,7 @@
 
 ---
 
-> ⚠️ **Content warning.** This dataset contains offensive, hateful, and potentially distressing language, including attacks on political, religious, ethnic, national, gender, and occupational groups. It is released **for research purposes only**.
+
 
 ---
 
