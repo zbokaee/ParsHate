@@ -200,7 +200,3 @@ If you use ParsHate, please cite:
   publisher = {Association for Computational Linguistics}
 }
 ```
-
-## 📄 License
-
-> 📝 *Add your chosen license here (e.g. CC BY-NC 4.0 for research-only use), and make sure it is consistent with the Twitter/X terms of service under which the data was collected.*
