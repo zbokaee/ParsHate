@@ -100,20 +100,6 @@ Disagreements were resolved by majority vote plus guideline-based adjudication. 
 
 ## 📁 Data Format
 
-> 📝 *Adjust this section to match the exact file names and columns in the release.*
-
-```
-ParsHate/
-├── data/
-│   ├── parshate.csv          # full dataset
-│   ├── train.csv             # 80% per-year split (fixed)
-│   └── test.csv              # 20% per-year split (fixed)
-├── guidelines/
-│   ├── guidelines_fa.pdf     # original Persian guidelines
-│   └── guidelines_en.pdf     # English translation
-└── README.md
-```
-
 Each row corresponds to one tweet. All labels are binary (`1` = present, `0` = absent).
 
 | Column | Description |
@@ -214,14 +200,6 @@ If you use ParsHate, please cite:
   publisher = {Association for Computational Linguistics}
 }
 ```
-
-## 📬 Contact
-
-- Zahra Bokaei — zahra.bokaei@ed.ac.uk
-- Walid Magdy — wmagdy@ed.ac.uk
-- Bonnie Webber — bonnie.webber@ed.ac.uk
-
-Questions and issues are welcome via [GitHub Issues](https://github.com/zbokaee/ParsHate/issues).
 
 ## 📄 License
 
